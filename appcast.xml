@@ -6,7 +6,21 @@
 		<description>Appcast for GPG Keychain Access</description>
 		<language>en</language>
 		
-		
-		
+		<item>
+		    <title>Version 0.2.1b</title>
+		    <description>GPG Keychain Access Version 0.2.1b</description>
+		    <sparkle:releaseNotesLink>
+		        http://gpgtools.github.com/GPGKeychainAccess/changelog_0.2.1b.html
+		    </sparkle:releaseNotesLink>
+		    <pubDate>Fri, 05 Nov 2010 22:00:00 +0100</pubDate>
+		    <enclosure url="https://github.com/downloads/gpgmail/GPGKeychainAccess/GPGKeychainAccess-0_2_1b.tar.bz2"
+		               sparkle:version="0.2.1b"
+					   sparkle:dsaSignature="MC0CFC4OSc/CeLcJ1PruND6ltw4o8+kLAhUAooDG3HZgijcsgHN5jd5bPH2WBnc="
+		               length="1614516"
+		               type="application/octet-stream" />
+		</item>
+
+
+
 	</channel>
 </rss>	
