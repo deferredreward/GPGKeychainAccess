@@ -48,6 +48,19 @@
 		               type="application/octet-stream" />
 		</item>
 
+		<item>
+			<title>Version 0.3.1b</title>
+			<description>GPG Keychain Access Version 0.3.1b</description>
+			<sparkle:releaseNotesLink>
+				http://gpgtools.github.com/GPGKeychainAccess/changelog_0.3.1b.html
+			</sparkle:releaseNotesLink>
+			<pubDate>Sat, 11 Dec 2010 17:30:00 +0100</pubDate>
+			<enclosure url="https://github.com/downloads/gpgmail/GPGKeychainAccess/GPGKeychainAccess-0_3_1b.tar.bz2"
+					   sparkle:version="0.3.1b"
+					   sparkle:dsaSignature="MCwCFDeqwRaC7E67ua6BcOCsprTVV3BVAhRtjcXp9u173+TG+mg21cXjRCMyhg=="
+					   length="1069448"
+					   type="application/octet-stream" />
+		</item>
 
 
 	</channel>
